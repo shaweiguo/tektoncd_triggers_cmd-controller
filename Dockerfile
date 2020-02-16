@@ -1,0 +1,2 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/controller@sha256:0681945bcbe2177cd7c72aa417b66f8edd191ad1f229051420cbe7a81e6c097c
+MAINTAINER coder
